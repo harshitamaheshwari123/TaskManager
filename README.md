@@ -1,4 +1,4 @@
-# Finance dashboard (Zorvyn)
+# Finance dashboard (Task Manager)
 
 Full-stack demo for a finance dashboard: **Express + MongoDB (Mongoose)** backend and **React (Vite)** frontend. It implements role-based access, financial record CRUD, aggregated dashboard APIs, JWT auth, and validation.
 
