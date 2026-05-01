@@ -19,7 +19,7 @@ export default function Layout({ children }) {
             <span className="nav-mark" aria-hidden>
               Z
             </span>
-            Zorvyn
+            Task Manager
           </Link>
           {token && (
             <nav className="nav-links" aria-label="Main">

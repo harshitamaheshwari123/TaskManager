@@ -5,7 +5,7 @@ export default function AuthLayout({ title, lead, children }) {
         <div className="nav-mark" style={{ marginBottom: "1.5rem" }}>
           Z
         </div>
-        <p className="auth-hero-brand">Zorvyn</p>
+        <p className="auth-hero-brand">Task Manager</p>
         <p>
           Role-based finance dashboard: track income and expenses, insights by
           category, and secure access for your team.
